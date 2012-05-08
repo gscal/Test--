@@ -20,4 +20,5 @@ if	(correctDate = true) {
 		console.log("It looks like the park isn't open until May 10.");
 	};
 
-alert("Hello and welcome. Thanks for stopping by.")
+alert(added some code into this file for purposes of simulating hours of work being done
+)
